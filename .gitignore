@@ -1,0 +1,13 @@
+# Virtual env
+.venv/
+
+# Jupyter auto-saves
+*.ipynb_checkpoints
+
+# Output data
+Processed/
+processed/
+
+# OS files
+.DS_Store
+Thumbs.db
